@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/varunpareek690](github.com/varunpareek690)
 
-- 📝 I regularly write articles on [github.com/varunpareek690](github.com/varunpareek690)
+-  My Linktree Social Network is available at [Linktree](https://linktr.ee/varunpareek690)
 
 - 💬 Ask me about **HTML,CSS,Java,C**
 
