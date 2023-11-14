@@ -1,3 +1,4 @@
+! [logo](https://github.com/varunpareek690/varunpareek690/blob/main/Profile%20banner.png)
 <h1 align="center">Bonjour 👋, I'm Varun Pareek</h1>
 <h3 align="center">A student finding my way among all other fellow CS undergrads</h3>
 
