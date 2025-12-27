@@ -68,12 +68,12 @@
 <br><br>
 
 - :school: I am a `Computer Science Undergrad` at [JK Lakshmipat University](https://jklu.edu.in/)
-- :trophy: Recently got third place in Formidium's Hackathon 2024
+- :trophy: Got third place in Formidium's Hackathon 2024
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Hackerrank`, `Leetcode`, `Codechef`.
-- :student: I’m currently learning `React JS` and `Java SpringBoot`.
+- :student: I’m currently trying my luck
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for a new `job opportunity`
 <br>
 
 
